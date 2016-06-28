@@ -4,6 +4,7 @@
 
 Willow-Cutting Distributed Hash Table presents a novel implementation of a distributed hash table. The hash table algorithm that will serve as the backbone of our proposed implementation takes a similar approach in organizing its elements as that of extensible hash table algorithm, but maintains a greater degree of orderliness through its usage of binary search tree data structure. We believe Willow-Cutting Distributed Hash Table will be scalable and efficient, and through our implementatino, we hope to bring some interesting perspectives to the topic of designing a distributed hash table.
 
+Find our paper here: http://joonsungpark.com/JoonSungPark_JacobCarstenson_WCDHT.pdf
 
 ## Content Description
 #### Data Structure Class Files
